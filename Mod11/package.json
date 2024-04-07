@@ -1,0 +1,26 @@
+{
+  "name": "automacao-ui",
+  "version": "1.0.0",
+  "description": "Exercício do módulo 11 - Automação UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patym/automacao-ui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patym/automacao-ui/issues"
+  },
+  "homepage": "https://github.com/patym/automacao-ui#readme",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}

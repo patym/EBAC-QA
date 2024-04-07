@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# my settings
+
+.zip
+.msi
+.exe
+.mp4
+jspm_packages/
+mochawesome-report/
